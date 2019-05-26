@@ -3,4 +3,4 @@ This is a LaTeX Template for Isfahan University of Technology (IUT) BS/MS/PhD Th
 
 <p dir='rtl' align='right'>این قالب لاتک بر اساس فرمت پایان‌نامه‌ها و رساله‌های تحصیلات تکمیلی دانشگاه صنعتی اصفهان تهیه شده است.</p>
 
-https://github.com/Amin-101/AThesis-IUT-Thesis-Template
+<a href="https://github.com/Amin-101/AThesis-IUT-Thesis-Template"></a>
