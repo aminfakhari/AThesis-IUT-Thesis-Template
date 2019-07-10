@@ -1,4 +1,4 @@
-# Isfahan University of Technology (IUT) Thesis Template
+# Isfahan University of Technology (IUT) Thesis LaTeX Template
 This is a LaTeX Template for Isfahan University of Technology (IUT) BS/MS/PhD Theses.
 
 # قالب لاتک برای پایان‌نامه‌ها و رساله‌های دانشگاه صنعتی اصفهان
